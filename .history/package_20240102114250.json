@@ -4,7 +4,6 @@
   "description": "Hess's portfolio",
   "main": "main.js",
   "scripts": {
-    "start": "react-scripts start",
     "dev": "nodemon --exec babel-node src/index.js",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
